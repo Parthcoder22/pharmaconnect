@@ -1,6 +1,6 @@
 import { api } from './api';
 
-const DEFAULT_KEY_ID = import.meta.env?.VITE_RAZORPAY_KEY_ID || 'rzp_test_Tj3vljTkxAGOpF';
+const DEFAULT_KEY_ID = import.meta.env?.VITE_RAZORPAY_KEY_ID || '';
 
 export const paymentService = {
   async createPaymentOrder(orderId) {
