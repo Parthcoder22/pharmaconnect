@@ -1,0 +1,6 @@
+{
+  "name": "PharmaConnect - B2B Pharmaceutical Marketplace",
+  "description": "Direct institutional drug trade with 100% digital audit trace. Connects verified pharmaceutical manufacturers with NABH hospitals, clinical chains, and licensed retail pharmacies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
